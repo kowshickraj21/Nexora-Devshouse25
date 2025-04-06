@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5b09525654045d08080b0f7543750b444f4f4d7b2e7873602b704563e1b46d6d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5005075f060d5f035c0a5e7743275944424e4f7d2f2d72642b7d4564e7e6363c
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 0250505100025f0f0f565f7213770f44134f4f287b2d70647a7f4f67b3b3366d
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 0108055056020a0a550a5e7648720844474f4e2f79787f662c2f4f37b4b1366e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5654510350010c0d0e0d557716725944434e497b2e7176697e7f4f30bab36069
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 06045155040c0c5f590f5e2711260d44464e1b2c2f707f69782c4430bab0363d
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 0606565556560b02550a5c2643730f44424f1b282e7a7469787a4c35b2b4626b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5403525f06015c5e5557592143275c44124e1b292a2b7f3529794a60b6b6366b
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 530104055d0c5158095f5927437606444e4e4d73292e77612b7c1c63bbe1626c
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 0504005303530c095c5a597042710744154f402e74707262787c4d61e6b53669
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    UnityRemoteResolution:
+      value: 2d5e460b0459
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 4
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
